@@ -8,18 +8,18 @@
       "id": "0asdfaesr2345",
       "createdAt": "25234645735684678",
       "name": "Dan",
-      "type": "PetType"
+      "type": "Cat"
     },
     { 
       "id": "0sdf3456363546478",
       "createdAt": "45712457247",
       "name": "Danny",
-      "type": "PetType"
+      "type": "Dog"
     },{ 
       "id": "267sdfaesr235774u826345",
       "createdAt": "252764747",
       "name": "Dannaldo",
-      "type": "PetType"
+      "type": "Cat"
     }
   ]
 }
